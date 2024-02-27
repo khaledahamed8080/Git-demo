@@ -70,7 +70,7 @@ Transmit local branch commits to the remote repository branch
 <h2>git pull</h2>
 fetch and merge any commits from the tracking remote branch
 
-<h1>REWRITE HISTORY/h1>
+<h1>REWRITE HISTORY</h1>
 Rewriting branches, updating commits and clearing history
 <h2>git rebase [branch]</h2>
 apply any commits of current branch ahead of specified one
